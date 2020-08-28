@@ -1,6 +1,6 @@
 # Testing API on Linux OS:
 
-- Open terimnal from the project directory
+- Open terminal from the project directory
 
 - Run the application on local development server:
 
